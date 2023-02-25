@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Taller:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Taller_jar</output-path>
+    <root id="archive" name="Taller.jar">
+      <element id="module-output" name="Taller" />
+    </root>
+  </artifact>
+</component>
